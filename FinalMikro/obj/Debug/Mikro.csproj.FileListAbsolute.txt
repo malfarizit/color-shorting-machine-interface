@@ -1,0 +1,69 @@
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\obj\Debug\Mikro.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Muhammad Alfarizi\Desktop\test\FastFoodDemo\obj\Debug\Mikro.csproj.GenerateResource.Cache
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\obj\Debug\Mikro.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.login.resources
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\obj\Debug\Mikro.csproj.GenerateResource.Cache
+C:\Users\Muhammad Alfarizi\Desktop\last 1\FastFoodDemo\bin\Debug\MySql.Data.DLL
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\obj\Debug\Mikro.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.login.resources
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\obj\Debug\Mikro.csproj.GenerateResource.Cache
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\bin\Debug\MySql.Data.DLL
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1\FastFoodDemo\obj\Debug\Mikro.csprojFakesResolveAssemblyReference.cache
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\obj\Debug\FastFoodDemo.exe
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\obj\Debug\FastFoodDemo.pdb
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\bin\Debug\FastFoodDemo.exe
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\bin\Debug\FastFoodDemo.pdb
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\bin\Debug\MySql.Data.DLL
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\obj\Debug\Mikro.csprojFakesResolveAssemblyReference.cache
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\obj\Debug\Mikro.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\obj\Debug\FastFoodDemo.login.resources
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Muhammad Alfarizi\Desktop\Project Mikro\last 1 - Copy\FinalMikro\obj\Debug\Mikro.csproj.GenerateResource.Cache
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\bin\Debug\FastFoodDemo.exe
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\bin\Debug\FastFoodDemo.pdb
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\bin\Debug\MySql.Data.DLL
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\Mikro.csproj.AssemblyReference.cache
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\FastFoodDemo.login.resources
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\Mikro.csproj.GenerateResource.cache
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\Mikro.csproj.CoreCompileInputs.cache
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\Mikro.csproj.CopyComplete
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\FastFoodDemo.exe
+C:\Users\Alfarizi\Documents\My Project\Color Shorting Machine\FinalMikro\obj\Debug\FastFoodDemo.pdb
